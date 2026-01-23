@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?logo=github&style=for-the-badge)](https://github.com/bad-antics)
 [![Discord](https://img.shields.io/badge/Discord-killers-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/killers)
-[![Tools](https://img.shields.io/badge/Security%20Tools-115+-red?style=for-the-badge)]()
+[![Tools](https://img.shields.io/badge/Security%20Tools-135+-red?style=for-the-badge)]()
 
 ```
     ██████╗  █████╗ ██████╗        █████╗ ███╗   ██╗████████╗██╗ ██████╗███████╗
