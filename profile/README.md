@@ -5,7 +5,7 @@
 ### Security Tools & Linux Distribution Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?logo=github&style=for-the-badge)](https://github.com/bad-antics)
-[![Discord](https://img.shields.io/badge/Discord-killers-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/killers)
+[![Discord](https://img.shields.io/badge/Twitter-AnonAntics-1DA1F2?logo=discord&logoColor=white&style=for-the-badge)](https://x.com/AnonAntics)
 [![Tools](https://img.shields.io/badge/Security%20Tools-135+-red?style=for-the-badge)]()
 
 ```
@@ -19,7 +19,7 @@
                         [ Security Research & Development ]
 ```
 
-### 🔓 **[Join discord.gg/killers](https://discord.gg/killers)** for encryption keys & exclusive tools!
+### 🔓 **[Join x.com/AnonAntics](https://x.com/AnonAntics)** for encryption keys & exclusive tools!
 
 </div>
 
@@ -59,6 +59,6 @@ Security researcher and open-source developer building tools for ethical hacking
 **Hack Ethically** | *bad-antics © 2025-2026*
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=flat&logo=github&logoColor=white)](https://github.com/bad-antics)
-[![Discord](https://img.shields.io/badge/Discord-killers-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/killers)
+[![Discord](https://img.shields.io/badge/Twitter-AnonAntics-1DA1F2?style=flat&logo=discord&logoColor=white)](https://x.com/AnonAntics)
 
 </div>
